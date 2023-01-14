@@ -105,7 +105,7 @@ pyasn1==0.4.4
 pycparser==2.19
 pycryptodome==3.15.0
 PyGithub==1.45
-Pygments==2.5.2
+Pygments==2.7.4
 PyJWT==2.4.0
 PyNaCl==1.4.0
 pyOpenSSL==18.0.0
