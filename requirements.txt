@@ -92,7 +92,7 @@ parse==1.19.0
 path.py==11.5.2
 pathlib2==2.3.7.post1
 Pillow==9.3.0
-pipenv==2021.5.29
+pipenv==2022.1.8
 pipreqs==0.4.11
 platformdirs==2.0.2
 pluggy==0.13.1
