@@ -1,5 +1,5 @@
 alabaster==0.7.12
-alive-progress==1.6.2
+alive-progress==3.0.1
 APScheduler==3.6.3
 asn1crypto==0.24.0
 atomicwrites==1.4.1
