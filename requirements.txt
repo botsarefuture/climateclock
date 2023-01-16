@@ -337,7 +337,7 @@ Telethon==1.24.0
 tkintermapview==1.11
 toga-core==0.2.15
 toga-winforms==0.2.15
-toml==0.10.0
+toml==0.10.2
 tomli==2.0.1
 tqdm==4.64.1
 trio==0.21.0
