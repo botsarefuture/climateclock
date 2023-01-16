@@ -155,7 +155,7 @@ urllib3==1.26.5
 virtualenv==20.15.1
 virtualenv-clone==0.5.7
 wakeonlan==1.1.6
-wcwidth==0.2.5
+wcwidth==0.2.6
 websocket==0.2.1
 websocket-client==0.59.0
 Werkzeug==2.2.2
