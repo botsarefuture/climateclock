@@ -43,7 +43,7 @@ execnet==1.9.0
 face==20.1.1
 fake-useragent==0.1.11
 filelock==3.2.1
-Flask==1.0.2
+Flask==2.2.2
 funcsigs==1.0.2
 functools32==3.2.3.post2
 future==0.18.3
